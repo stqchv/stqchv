@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tomasz Stasiński!
 
 🎓 I graduated with a **Bachelor’s degree in Automation and Robotics** from the **Silesian University of Technology (Politechnika Śląska)**.
-🚀 I’m passionate about **drones, and autonomous systems**.
+🚀 I’m passionate about **unmanned aerial vehicles**.
 
 ---
 
