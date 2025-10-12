@@ -1,8 +1,25 @@
-- 👋 Hi, I’m @stqchv Tomasz Stasiński,
-- 👀 I’m interested in 2D and 3D graphic design, website constructions
-- 🌱 I’m currently studying at the Silesian University of Technology
+# 👋 Hi, I'm Tomasz Stasiński!
 
-<!---
-stqchv/stqchv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I graduated with a **Bachelor’s degree in Automation and Robotics** from the **Silesian University of Technology (Politechnika Śląska)**.  
+🚀 I’m passionate about **drones, and autonomous systems**.
+
+---
+
+### 🧠 What I’m interested in
+- 🛰️ **Drone systems** – flight control, PX4, and MAVLink  
+- 🤖 **FPV pilot** – flying and tuning racing and freestyle drones 
+- 🐍 **Python** & 🧱 **C++** for robotics applications  
+
+---
+
+### 🧰 Tech stack
+- **Languages:** Python, C++ 
+- **Robotics:** ROS2, PX4, Gazebo  
+- **DevOps:** Docker, Git, Linux  
+
+---
+
+### 📫 Get in touch
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+
+---
